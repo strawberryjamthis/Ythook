@@ -11,7 +11,7 @@ channel_ids = {'Formula 1': 'UCB_qr75-ydFVKSF9Dmo6izg', 'Josh Reveall': 'UCSawmZ
 # channel ID's can be found on desktop easily
 # sometimes its in the url, e.g https://www.youtube.com/channel/UCqECaJ8Gagnn7YCbPEzWH6g - UCqECaJ8Gagnn7YCbPEzWH6g is the ID
 # otherwise go to YouTube channel page, e.g https://www.youtube.com/@RecordingAcademy
-# at the top you can see the channel description > click more > scroll down and click 'share channel' > click 'copy channel id'
+# at the top you can see the channel description > click more > scroll down and click 'share channel' > click 'copy channel id, do it right'
 
 # set list of user agents to use
 ua = UserAgent(platforms='desktop')
